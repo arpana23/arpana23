@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arpana Sinha
 - 👀 I’m interested in designing dynamic website
-- 💞️ my portfolio link is 'arpana.dorik.io' 
+- my portfolio link is 'https://arpana-cv.netlify.app/'
+ 
 
 <!---
 arpana23/arpana23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
