@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arpana Sinha
 - 👀 I’m interested in designing dynamic website
-- my portfolio link is 'https://arpana-cv.netlify.app/'
+- my portfolio link is 'https://arpana-e-resume.netlify.app/'
  
 
 <!---
