@@ -32,6 +32,8 @@ I also have 8 months of MERN Stack training-cum-internship experience, along wit
 
 - LinkedIn:
 www.linkedin.com/in/arpana-sinha-5580491ab
+- Portfolio:
+https://arpana-sinha-portfolio.netlify.app/
 
 I'm open to Frontend Developer, React.js Developer and UI Developer opportunities.
 
